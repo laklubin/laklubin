@@ -1,4 +1,4 @@
-# Lubin A.K [LAK] — Detection Engineering & AI Assurance
+# Lubin A.K [LAK] — Detection Engineering & Responsible AI & Assurance
 
 In managed security services, building detection content, onboarding pipelines, and AI-assurance practice for enterprise SOC and MSSP environments across the GCC.
 
