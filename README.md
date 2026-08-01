@@ -2,7 +2,7 @@
 
 In managed security services, building detection content, onboarding pipelines, and AI-assurance practice for enterprise SOC and MSSP environments across the GCC.
 
-**Focus areas:** detection engineering at scale · MITRE ATT&CK / ATLAS / FiGHT-based threat modeling · UEBA and SIEM use-case design · AI/agentic system security · MSS onboarding frameworks . Architecture & Design ( SABSA, TOGAF0
+**Focus areas:** detection engineering at scale · MITRE ATT&CK / ATLAS / FiGHT-based threat modeling · UEBA and SIEM use-case design · AI/agentic system security · MSS onboarding frameworks . Security Architecture & Design ( SABSA, TOGAF), P&L for MSS.
 
 ---
 
