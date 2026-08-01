@@ -21,6 +21,8 @@ Working knowledge bases, built from official framework data and published live f
 | [AI Security Use Cases](https://laklubin.github.io/AI-Security-Use-Case-SIEM/) | MITRE ATLAS + OWASP LLM Top 10 |
 | [MCP Security (SIEM)](https://laklubin.github.io/AI-MCP-SIEM-Detection-Use-Case-/) | OWASP MCP Top 10 detection use cases |
 | [OWASP AI Security (SIEM)](https://laklubin.github.io/AI-Security-OWASP-SIEM-Use-Case/) | OWASP LLM Top 10 + Agentic (ASI) Top 10 |
+| [Robotics SIEM Use Cases](https://laklubin.github.io/Robotic-SIEM-Use-Case/) | OWASP IoT Top 10 — infra, ROS/ROS2, fleet & HRI |
+| [Quantum & Post-Quantum SIEM](https://laklubin.github.io/Quantum-Computing-SIEM-Use-Case/) | NIST PQC migration (SP 1800-38, CNSA 2.0) + QC infra |
 
 ---
 
