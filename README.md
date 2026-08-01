@@ -23,6 +23,8 @@ Working knowledge bases, built from official framework data and published live f
 | [OWASP AI Security (SIEM)](https://laklubin.github.io/AI-Security-OWASP-SIEM-Use-Case/) | OWASP LLM Top 10 + Agentic (ASI) Top 10 |
 | [Robotics SIEM Use Cases](https://laklubin.github.io/Robotic-SIEM-Use-Case/) | OWASP IoT Top 10 — infra, ROS/ROS2, fleet & HRI |
 | [Quantum & Post-Quantum SIEM](https://laklubin.github.io/Quantum-Computing-SIEM-Use-Case/) | NIST PQC migration (SP 1800-38, CNSA 2.0) + QC infra |
+| [Blockchain SIEM Use Cases](https://laklubin.github.io/block-chain-SIEM-use-case/) | OWASP Smart Contract Top 10 — contract & chain infra |
+| [Healthcare SIEM Use Cases](https://laklubin.github.io/Healthcare-SIEM-Use-Case/) | HHS 405(d) HICP + EPIC/EHR &amp; HIS application layer |
 
 ---
 
