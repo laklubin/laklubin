@@ -25,6 +25,10 @@ Working knowledge bases, built from official framework data and published live f
 | [Quantum & Post-Quantum SIEM](https://laklubin.github.io/Quantum-Computing-SIEM-Use-Case/) | NIST PQC migration (SP 1800-38, CNSA 2.0) + QC infra |
 | [Blockchain SIEM Use Cases](https://laklubin.github.io/block-chain-SIEM-use-case/) | OWASP Smart Contract Top 10 — contract & chain infra |
 | [Healthcare SIEM Use Cases](https://laklubin.github.io/Healthcare-SIEM-Use-Case/) | HHS 405(d) HICP + EPIC/EHR &amp; HIS application layer |
+| [Accela SIEM Use Cases](https://laklubin.github.io/Accela-Application-SIEM-Threat-Detection-Use-Case/) | V4 API-grounded — records, workflow, payments, inspections |
+| [Smart Cities & IoT SIEM](https://laklubin.github.io/Smart-Cities---IOT-SIEM-Use-Cases/) | OWASP IoT Top 10 + national SOC smart-city domains |
+| [Satellite / 5G-NTN SIEM](https://laklubin.github.io/5G-NTN-Non-Terrestrial-Networks-Satellite-Technology-Stack/) | SPARTA + 5G NR-NTN, DVB-S2X, CCSDS |
+| [Drone / UAS SIEM Use Cases](https://laklubin.github.io/Drone-Specific-SIEM-Use-Cases/) | Full-stack — RF link, GNSS, edge, mission control |
 
 ---
 
