@@ -29,6 +29,7 @@ Working knowledge bases, built from official framework data and published live f
 | [Smart Cities & IoT SIEM](https://laklubin.github.io/Smart-Cities---IOT-SIEM-Use-Cases/) | OWASP IoT Top 10 + national SOC smart-city domains |
 | [Satellite / 5G-NTN SIEM](https://laklubin.github.io/5G-NTN-Non-Terrestrial-Networks-Satellite-Technology-Stack/) | SPARTA + 5G NR-NTN, DVB-S2X, CCSDS |
 | [Drone / UAS SIEM Use Cases](https://laklubin.github.io/Drone-Specific-SIEM-Use-Cases/) | Full-stack — RF link, GNSS, edge, mission control |
+| [Banking SIEM Use Cases](https://laklubin.github.io/Banking-Specific-SIEM-Use-CASE/) | Core banking (T24/Finacle/Flexcube), SWIFT CSP, payments, ATM, cards, fraud |
 
 ---
 
