@@ -18,7 +18,7 @@ Working knowledge bases, built from official framework data and published live f
 | [UEBA Use Case Library](https://laklubin.github.io/UEBA-Use-Case/) | Splunk, Sentinel & Securonix behavioral detections |
 | [Telco Threat Detection](https://laklubin.github.io/Telco-detection-use-cases/) | MITRE FiGHT — RAN, Core, O-RAN, Roaming |
 | [OT/ICS Threat Detection](https://laklubin.github.io/OT-SIEM-Use-Case-Critical-Infra/) | MITRE ATT&CK for ICS — PLC, RTU, DCS, HMI, Historian |
-| [AI Security Use Cases](https://laklubin.github.io/AI-Security-Use-Case-SIEM/) | MITRE ATLAS + OWASP LLM Top 10 |
+| [AI Security Use Cases](https://laklubin.github.io/AI-Security-Use-Case-SIEM/) | 188 use cases — all 178 MITRE ATLAS techniques (data release 2026.07) + OWASP LLM Top 10 (2025) |
 | [MCP Security (SIEM)](https://laklubin.github.io/AI-MCP-SIEM-Detection-Use-Case-/) | OWASP MCP Top 10 detection use cases |
 | [OWASP AI Security (SIEM)](https://laklubin.github.io/AI-Security-OWASP-SIEM-Use-Case/) | OWASP LLM Top 10 + Agentic (ASI) Top 10 |
 | [Robotics SIEM Use Cases](https://laklubin.github.io/Robotic-SIEM-Use-Case/) | OWASP IoT Top 10 — infra, ROS/ROS2, fleet & HRI |
