@@ -32,6 +32,7 @@ Working knowledge bases, built from official framework data and published live f
 | [Banking SIEM Use Cases](https://laklubin.github.io/Banking-Specific-SIEM-Use-CASE/) | Core banking (T24/Finacle/Flexcube), SWIFT CSP, payments, ATM, cards, fraud |
 | [Bots & Shadow AI SIEM](https://laklubin.github.io/Bots-and-Shadow-AI-SIEM-Use-Case/) | 63 use cases — banking bot logins, all 21 OWASP Automated Threats (OAT) + Shadow AI |
 | [AI-Powered Attack & Detection](https://laklubin.github.io/SIEM-AI-Powered-Use-Case/) | 90 use cases — AI as the weapon: generated phishing, deepfakes, agentic intrusion, ML evasion, AI supply chain |
+| [SWIFT & PCI DSS SIEM](https://laklubin.github.io/swift-siem-use-case/) | 118 use cases — SWIFT application estate (Alliance Access/Gateway, CSCF) + PCI DSS v4.0.1, each with a sample log |
 
 ---
 
