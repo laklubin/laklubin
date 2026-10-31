@@ -35,6 +35,7 @@ Working knowledge bases, built from official framework data and published live f
 | [SWIFT & PCI DSS SIEM](https://laklubin.github.io/swift-siem-use-case/) | 118 use cases — SWIFT application estate (Alliance Access/Gateway, CSCF) + PCI DSS v4.0.1, each with a sample log |
 | [First-Party & Shadow AI SIEM](https://laklubin.github.io/First-Party-AI-and-Shadow-AI-SIEM-Use-Case/) | 100 use cases — sanctioned enterprise AI (Copilot, ChatGPT Enterprise, Bedrock, agents) + shadow AI discovery, each with log sources & a sample log |
 | [Oracle OCI SIEM Use Cases](https://laklubin.github.io/Oracle-OCI-SIEM-Use-Case/) | 137 use cases — Oracle Cloud Infrastructure: Audit, VCN Flow, WAF, Identity Domains, OKE, Object Storage, Data Safe & Cloud Guard, each with log sources & a sample log |
+| [SAP Application SIEM Use Cases](https://laklubin.github.io/SAP-SIEM-Use-Case/) | 111 use cases — SAP ABAP (ECC, S/4HANA), HANA, BTP & cloud identity, integration tier & SoD/fraud, each with log source & a sample log |
 
 ---
 
