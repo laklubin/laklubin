@@ -36,6 +36,7 @@ Working knowledge bases, built from official framework data and published live f
 | [First-Party & Shadow AI SIEM](https://laklubin.github.io/First-Party-AI-and-Shadow-AI-SIEM-Use-Case/) | 100 use cases — sanctioned enterprise AI (Copilot, ChatGPT Enterprise, Bedrock, agents) + shadow AI discovery, each with log sources & a sample log |
 | [Oracle OCI SIEM Use Cases](https://laklubin.github.io/Oracle-OCI-SIEM-Use-Case/) | 137 use cases — Oracle Cloud Infrastructure: Audit, VCN Flow, WAF, Identity Domains, OKE, Object Storage, Data Safe & Cloud Guard, each with log sources & a sample log |
 | [SAP Application SIEM Use Cases](https://laklubin.github.io/SAP-SIEM-Use-Case/) | 111 use cases — SAP ABAP (ECC, S/4HANA), HANA, BTP & cloud identity, integration tier & SoD/fraud, each with log source & a sample log |
+| [AI Data Center SIEM Use Cases](https://laklubin.github.io/AI-Data-Center-Monitoring/) | 200 use cases across 21 domains — AI GPU data center: GPUs & fabric (DCGM, InfiniBand, NVLink), BMC, Kubernetes & Slurm, MLOps, LLM apps & RAG, power & cooling, each with log sources & a sample log |
 
 ---
 
